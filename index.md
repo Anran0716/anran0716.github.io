@@ -8,9 +8,9 @@
 
 [Target a subsidy](/508_md/HomeCredit)
 
-[Drug risk prediction in Chicago](/508_md/ChicagoMarijuana)
+[Drug risk prediction in Chicago](/508_md/Chicagodrug)
 
-[Hedonic Home Price Prediction for Boulder](/508_md/MiamiHousingPrice)
+[Hedonic Home Price Prediction for Boulder](/508_md/BoulderHousingPrice)
 
 [Indicators of TOD in Chicago](/508_md/ChicagoTOD)
 
