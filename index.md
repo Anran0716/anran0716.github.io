@@ -4,15 +4,15 @@
 
 ### Public Policy Analysis
 
-[Predict bike share trips in Philadelphia](/508_md/indego_bikeshare_prediction)
+[Predict bike share trips in Philadelphia](/pdf/indego_bikeshare_prediction)
 
-[Target a subsidy](/508_md/HomeCredit)
+[Target a subsidy](/pdf/HomeCredit)
 
-[Drug risk prediction in Chicago](/508_md/Chicagodrug)
+[Drug risk prediction in Chicago](/pdf/Chicagodrug)
 
-[Hedonic Home Price Prediction for Boulder](/508_md/BoulderHousingPrice)
+[Hedonic Home Price Prediction for Boulder](/pdf/BoulderHousingPrice)
 
-[Indicators of TOD in Chicago](/508_md/ChicagoTOD)
+[Indicators of TOD in Chicago](/pdf/ChicagoTOD)
 
 
 
