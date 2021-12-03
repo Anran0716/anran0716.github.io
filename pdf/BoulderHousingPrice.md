@@ -1,7 +1,7 @@
-## Boulder Housing Price Prediction
+## Hedonic Home Price Prediction for Boulder
 
 **Link to Project:** 
-[Boulder Housing Price Prediction](/pdf/BoulderHousingPrice.html)
+[Hedonic Home Price Prediction for Boulder](/pdf/BoulderHousingPrice.html)
 
 **Project description:** 
 This project develops model to predict the home price for single-family housing in Boulder county, Colorado. Despite powerful models that Zillow possesses for home price prediction, the always unique context of places requires more refined and site-specific models that take local characteristics into consideration for price prediction. However, such a site-specific model is difficult to build because factors that influence home price tend to be correlate with each other within the system of real estate. Moreover, a site-specific model to Boulder has limited data for model training for Boulder is not a large county, a limitation that will harm the accuracy of the model. Responding to the request for a site-specific model, we develops a Hedonic model that deconstructs the home price into the values of constituent parts including internal characteristics such as housing quality, public services and amenities such as public transit, and spatial process such as the clustering of home price. We then use the model to predict the home price in relation to changes in aforementioned features.
