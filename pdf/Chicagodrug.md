@@ -1,7 +1,7 @@
-## Chicago Predictive Policing (Narcotics - Cannabis Possession Crime)
+## Drug risk prediction in Chicago
 
 **Link to Project:** 
-[Chicago Predictive Policing](/508_html/PredictivePolicing_Chicago.html)
+[Drug risk prediction in Chicago](/pdf/Chicagodrug.html)
 
 **Project description:** 
-The public sector has grown reliance on machine learning algorithms in forecasting where crimes will happen and thereby allocating police officers strategically in the right time and space to prevent crime. Though the intentions of these “predictive policing” tools are to reduce cost and protect public safety, pathologies in data collection and machine learning models can lead to very biased outcomes. This analysis will examine the accuracy and generalizability of our predictive policing model on Cannabis Possession crime in Chicago.
+Data science has been an ideal planning tool, which makes sure that the limited resources (e.g. police) matches the demand for resources (e.g. crime). For many years, policies have been planning based on the crime data for a better risk prediction. Under this premise, this study created a geospatial risk-predicted model to predict the drug crimes in Chicago. First, drug crime data with its relevant risk factors were wrangled into geospatial features. Their correlations were analyzed and based on that, estimating models were built to predict the drug crime in Chicago. Finally, model validation is conducted by comparing the predictions with the traditions.
