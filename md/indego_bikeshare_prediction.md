@@ -1,7 +1,7 @@
 ## Predict bike share trips in Philadelphia
 
 **Link to Project:** 
-[Predict bike share trips in Philadelphia](/pdf/indego_bikeshare_prediction.html)
+[Predict bike share trips in Philadelphia](/html/indego_bikeshare_prediction.html)
 
 **Project description:** 
 Bike share is that public bicycles, usually next to subways, bus stations, parks, residential and shopping area, are provided for individuals to satisfy their short-term travelling demand by paying rent according to their travelling time. Nowadays it has been widely developed in many metropolitan regions, such as Philadelphia and NYC, to bring travelers with convenience and health benefits, and contribute to the environment their live.
