@@ -37,7 +37,26 @@
 
 ### Data Visualization with HTML
 
+**[Visualization of COVID-19 in NYC](https://storage.googleapis.com/coviddashboard_publicbucket/2021-12-15/index.html)**
 
+<img src='pdf/509.PNG?raw=true'/>
+
+---
+### Spatial Analysis of COVID-19
+
+**[Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS](https://www.mdpi.com/2220-9964/10/9/627/htm)**
+
+<img src='pdf/COVID.PNG?raw=true'/>
+
+---
+
+### Transportation Planning with GIS
+
+**[Measuring job accessibility in Philadelphia](/pdf/CPLN550Final.pdf)**
+
+<img src='pdf/CPLN550.PNG?raw=true'/>
+
+---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attribute -->
