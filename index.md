@@ -34,6 +34,21 @@
 <img src='pdf/NDVI.PNG?raw=true'/>
 
 ---
+### Spatial Statistics and Data Analysis
+
+**[Spatial autocorrelation and regression](/pdf/500HW2.pdf)**
+
+<img src='pdf/HW2.png?raw=true'/>
+
+**[Logistic Regression](/pdf/500HW3.pdf)**
+
+<img src='pdf/500HW3.png?raw=true'/>
+
+**[Point pattern analysis](/pdf/k-function.pdf)**
+
+<img src='pdf/KNN.png?raw=true'/>
+
+---
 
 ### Data Visualization with HTML
 
