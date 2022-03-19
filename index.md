@@ -57,6 +57,14 @@
 <img src='pdf/509.PNG?raw=true'/>
 
 ---
+### Transportation Planning with GIS
+
+**[Chinatown Pedestrain and Bicycle Plan](/pdf/chinatown_plan.pdf)**
+
+<img src='pdf/655.png?raw=true'/>
+
+---
+
 ### Spatial Analysis of COVID-19
 
 **[Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS](https://www.mdpi.com/2220-9964/10/9/627/htm)**
@@ -65,13 +73,6 @@
 
 ---
 
-### Transportation Planning with GIS
-
-**[Measuring job accessibility in Philadelphia](/pdf/CPLN550Final.pdf)**
-
-<img src='pdf/CPLN550.PNG?raw=true'/>
-
----
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attribute -->
