@@ -1,5 +1,8 @@
-## Kelly Anran Zheng's portfolio
+## Portfolio Repo
 
-Welcome to see my portfolios https://anran0716.github.io/ on how to help urban government make better decisions!
+This is the Github repository of my project portfolio. 
+Please go to [this portfolio link](https://hanyongxu.com) to see my work.
 
-Kelly
+Thank you!
+
+Hanyong Xu
